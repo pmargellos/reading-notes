@@ -1,7 +1,7 @@
 # reading-notes
 **DeltaV 102-Reading Notes**
 
-# About
+# About Me
 
 My name is Pete Margellos I am working as a Sr System Administrator. I have been working in the tech industry for 25 years. I am learning to code to help support my current customers who are developers and to learn a new skill.
 

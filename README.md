@@ -14,5 +14,5 @@ My thoughts on _growth mindset_ are that in order to achieve your highest potent
 
 **_Important_ links for this class.**
 
-- Article on [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+- [Growth Mindset](Growth-Mindset-Reading.md)
 - [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)

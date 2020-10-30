@@ -1,3 +1,5 @@
+[Home](https://pmargellos.github.io/reading-notes/)
+
 ## Read: 01 Assignment
 # What Markdown syntax I have learned to used so far.
 

@@ -1,4 +1,4 @@
-**DeltaV 102-Reading Notes**
+ # **DeltaV 102-Reading Notes**
 
 # About Me
 
@@ -23,4 +23,4 @@ My thoughts on _growth mindset_ are that in order to achieve your highest potent
 # Table of Contents
 
 - [Home](https://pmargellos.github.io/reading-notes/)
-- [Disscussion](https://pmargellos.github.io/reading-notes/)
+- [Discussion](https://pmargellos.github.io/reading-notes/)

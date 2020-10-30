@@ -15,12 +15,10 @@ My thoughts on _growth mindset_ are that in order to achieve your highest potent
 - Stay persistant
 - No pain, no gain
 
-**_Important_ links for this class.**
-
-- [Growth Mindset](Growth-Mindset-Reading.md)
-- [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 # Table of Contents
 
 - [Home](https://pmargellos.github.io/reading-notes/)
 - [Discussion](discussion_01.md)
+- [Growth Mindset](Growth-Mindset-Reading.md)
+- [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)

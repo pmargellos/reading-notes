@@ -23,4 +23,4 @@ My thoughts on _growth mindset_ are that in order to achieve your highest potent
 # Table of Contents
 
 - [Home](https://pmargellos.github.io/reading-notes/)
-- [Discussion](https://pmargellos.github.io/reading-notes/)
+- [Discussion](discussion_01.md)

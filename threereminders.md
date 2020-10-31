@@ -1,3 +1,5 @@
+[Home](https://pmargellos.github.io/reading-notes)
+
 # Three Reminders to Myself
 
 - Embrace change

@@ -12,4 +12,5 @@
   
  Install was pretty easy. Had to Google a few errors but was able to fix issues that I had. Having some Linux Command line experience helped.
   
+[Ubuntu Command Cheat Sheet](http://www.cheat-sheets.org/saved-copy/ubunturef.pdf)
 

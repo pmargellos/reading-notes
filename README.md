@@ -9,6 +9,7 @@ My name is Pete Margellos I am working as a Sr System Administrator. I have been
 
 - [Home](https://pmargellos.github.io/reading-notes)
 - [Three Reminders to Myself](threereminders.md)
+- [Stretch Goals Notes](stretch-goals-notes.md)
 - [Discussion](discussion_01.md)
 - [Growth Mindset](Growth-Mindset-Reading.md)
 - [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)

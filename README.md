@@ -22,3 +22,4 @@ My thoughts on _growth mindset_ are that in order to achieve your highest potent
 - [Discussion](discussion_01.md)
 - [Growth Mindset](Growth-Mindset-Reading.md)
 - [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [The Coders Computer](Coders_Computer.md)

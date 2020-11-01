@@ -12,6 +12,6 @@ My name is Pete Margellos. I am working as a Sr System Administrator and have be
 - [Stretch Goals Notes](stretch-goals-notes.md)
 - [Discussion](discussion-folder.md)
 - [Growth Mindset](Growth-Mindset-Reading.md)
-- [Markdown help](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Help](markdown-help.md)
 - [The Coders Computer](Coders_Computer.md)
 

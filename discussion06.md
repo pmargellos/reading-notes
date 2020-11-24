@@ -35,5 +35,5 @@ The following code is an example of adding interactiviy to a page that will give
 10. } else {
 11.   greeting = 'Welcome!';
 12. }
-13. document.write('<h3>' + greeting + '</h3>')
+
 

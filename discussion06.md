@@ -22,7 +22,7 @@ All the above pieces work together by what is called Progressive Enhancement.
 
 The following code is an example of adding interactiviy to a page that will give you a different greating depending on the time of day. This is all set in motion by the time that is present on your computer.
 
-var today = new Date();
+(var today = new Date();
 var hourNow = today.getHours();
 var greeting;
 
@@ -36,4 +36,4 @@ if (hourNow > 18) {
     greeting = 'Welcome!';
 }
 
-document.write('<h3>' + greeting + '</h3>');
+document.write('<h3>' + greeting + '</h3>');)

@@ -37,5 +37,3 @@ if (hourNow > 18) {
     greeting = 'Welcome!';
 }
 
-document.write('<h3>' + greeting + '</h3>')}\
-/*

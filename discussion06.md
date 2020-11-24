@@ -7,12 +7,12 @@
 Javascript is written in plain text like other scripting we have learned in previous notes. Same as we have used in CSS and HTML.
 
 The following shows where Javascript fits in the creation of web a dynamic webpage.
-<html> is the Content Layer - This the layer where all of the content of the page     
+HTML is the Content Layer - This the layer where all of the content of the page     
 lives.
 
-{css} is the Presentation Layer - CSS is the enhancement to the HTML with rules that state how the HTML content will be presented.
+CSS is the Presentation Layer - CSS is the enhancement to the HTML with rules that state how the HTML content will be presented.
 
-javascript () is where changes are made to effect how the page behaves, adding interactivity.
+JAVASCRIPT is where changes are made to effect how the page behaves, adding interactivity.
 
 All the above pieces work together by what is called Progressive Enhancement.
 

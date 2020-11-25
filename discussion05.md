@@ -7,15 +7,14 @@
 Flash Cards
 Color Properties
 What type of color property are the following.
-1. #00A9D8 [Answer](hex.md)
-2. rgb(100,100,100)[Answer](rgb.md)
-3. Blue [Answer](color.md)
+1. #00A9D8 [Answer](answers-discuss5/hex.md)
+2. rgb(100,100,100) [Answer](answers-discuss5/rgb.md)
+3. Blue [Answer](answers-discuss5/color.md)
 
 CSS Selectors
 Explain the meaning of the following selectors.
-1. UNIVERSAL SELECTOR 
-2. TYPE SELECTOR
-3. CLASS SELECTOR
-4. ID SELECTOR
-5. CHILD SELECTOR
-6. DESCENDANT SELECTOR
+1. UNIVERSAL SELECTOR [Answer](answers-discuss5/universal.md)
+2. TYPE SELECTOR [Answer](answers-discuss5/type.md)
+3. CLASS SELECTOR [Answer](answers-discuss5/class.md)
+4. ID SELECTOR [Answer](answers-discuss5/id.md)
+5. CHILD SELECTOR [Answer](answers-discuss5/child.md)

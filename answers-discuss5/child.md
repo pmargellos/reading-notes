@@ -1,0 +1,1 @@
+Matches an element that is a direct child of another. li>a {} Targets any <a> elements that are children of an <li> element (but not other <a> elements in the page)

@@ -1,0 +1,1 @@
+Matches an element whose id attribute has a value that matches the one specified ater the pounr or hash symbol. Exampe: #introduction {} Targets the element whose id attribute has a value of introduction.

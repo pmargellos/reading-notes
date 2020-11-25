@@ -6,5 +6,6 @@
 - [Module 04 Discussion](discussion04.md)
 - [Module 05 Discussion](discussion05.md)
 - [Module 06 Discussion](discussion06.md)
+- [Module 06b Discussion](discussion06b.md)
 - [Module 07 Discussion](discussion07.md)
 - [Module 08 Discussion](discussion08.md)

@@ -1,0 +1,1 @@
+Applies to all elements in the document Example:* {} - Targets all elements on the page.
